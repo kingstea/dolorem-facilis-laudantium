@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kingstea/dolorem-facilis-laudantium",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kingstea/dolorem-facilis-laudantium.git"
   },
   "dependencies": {
+    "@kingstea/studious-guacamole": "^1.0.0"
   }
 }
